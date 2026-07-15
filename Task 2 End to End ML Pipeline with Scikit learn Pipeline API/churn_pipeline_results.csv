@@ -1,0 +1,3 @@
+,best_params,cv_best_f1,test_accuracy,test_f1,test_roc_auc
+LogisticRegression,"{'classifier__C': 0.1, 'classifier__class_weight': 'balanced', 'classifier__penalty': 'l2'}",0.6333260110454836,0.7423704755145494,0.6182965299684543,0.840858715027513
+RandomForest,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': 8, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 200}",0.6360508774785244,0.7551454932576295,0.6245919477693145,0.8415613939910614
