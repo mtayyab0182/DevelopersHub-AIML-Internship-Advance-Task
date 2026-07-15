@@ -1,8 +1,8 @@
+
 # 📉 Customer Churn Prediction — End-to-End ML Pipeline
 
 A reusable, production-ready machine learning pipeline built with **scikit-learn's `Pipeline` API** to predict customer churn on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). Includes hyperparameter tuning with `GridSearchCV`, model export via `joblib`, and a live **Streamlit** demo app.
 
----
 
 ## 🎯 Objective
 
@@ -10,11 +10,9 @@ Build a churn-prediction pipeline that is:
 - **Reusable** — one object handles preprocessing *and* prediction, so it can be dropped into any script or app without re-writing feature engineering.
 - **Production-ready** — trained, tuned, evaluated, and exported as a single deployable artifact.
 
----
 
 ## 🗂️ Project Structure
 
-```
 churn-app/
 ├── app.py                       # Streamlit demo app
 ├── churn_pipeline.py            # Training script (build, tune, evaluate, export)
@@ -24,9 +22,9 @@ churn-app/
 ├── Telco-Customer-Churn.csv     # Dataset
 ├── requirements.txt             # Python dependencies
 └── README.md
-```
 
----
+
+
 
 ## ✅ How Each Objective Was Implemented
 
@@ -213,3 +211,6 @@ __pycache__/
 - Model comparison and selection on held-out test data
 - Model export and reuse with `joblib`
 - Production-readiness: single-artifact deployment, `handle_unknown="ignore"` for robustness, a working demo app
+
+# DevelopersHub-AIML-Internship-Advance-Task
+
