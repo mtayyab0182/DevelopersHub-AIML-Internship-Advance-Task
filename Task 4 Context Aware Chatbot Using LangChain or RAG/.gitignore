@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Vector store (rebuild locally with ingest.py)
+vectorstore/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db

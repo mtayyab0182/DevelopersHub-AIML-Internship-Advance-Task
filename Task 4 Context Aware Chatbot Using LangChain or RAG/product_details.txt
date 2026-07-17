@@ -1,0 +1,23 @@
+TechNova Solutions — Product Details: CodePilot Cloud
+
+CodePilot Cloud offers three pricing tiers: Starter, Team, and Enterprise.
+
+The Starter tier costs $29 per developer per month and includes automated code
+review, basic vulnerability scanning, and support for up to 5 repositories.
+
+The Team tier costs $79 per developer per month and adds unlimited repositories,
+custom review rules, Slack and Microsoft Teams integrations, and priority email
+support.
+
+The Enterprise tier is custom-priced and includes single sign-on (SSO), on-premise
+deployment options, a dedicated customer success manager, and a 99.9% uptime SLA.
+
+CodePilot Cloud integrates with GitHub, GitLab, and Bitbucket. It supports code
+review automation for Python, JavaScript, TypeScript, Java, Go, and Rust. The
+underlying review engine uses a fine-tuned large language model combined with
+static analysis tools to flag bugs, security issues, and style violations before
+code is merged.
+
+In 2024, TechNova added an AI documentation generator to CodePilot Cloud, which
+automatically writes and updates README files, API documentation, and inline code
+comments based on the codebase's actual structure.

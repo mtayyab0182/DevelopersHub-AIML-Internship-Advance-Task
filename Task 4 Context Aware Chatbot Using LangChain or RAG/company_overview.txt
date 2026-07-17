@@ -1,0 +1,21 @@
+TechNova Solutions — Company Overview
+
+TechNova Solutions is a software company founded in 2015, headquartered in Lahore,
+Pakistan, with a satellite office in Berlin, Germany. The company specializes in
+building AI-powered developer tools and cloud infrastructure products.
+
+TechNova's flagship product is CodePilot Cloud, a cloud-based platform that helps
+engineering teams automate code reviews, detect security vulnerabilities, and
+generate documentation using large language models. CodePilot Cloud was launched
+in 2021 and now serves over 3,000 companies worldwide.
+
+The company employs around 220 people across engineering, sales, and customer
+success. TechNova's CEO is Amina Raza, who co-founded the company after working
+as a senior engineer at a large cloud provider. The CTO, Daniyal Farooq, leads a
+team of 90 engineers split across three product lines: CodePilot Cloud, DataMesh
+(a data pipeline orchestration tool), and SecureScan (an automated security
+auditing tool for containerized applications).
+
+TechNova raised a Series B funding round of $40 million in 2023, led by Horizon
+Ventures, to expand its AI research team and grow into new markets in Southeast
+Asia.

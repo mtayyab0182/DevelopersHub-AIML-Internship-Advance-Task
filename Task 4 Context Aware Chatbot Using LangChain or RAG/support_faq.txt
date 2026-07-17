@@ -1,0 +1,25 @@
+TechNova Solutions — Support FAQ
+
+Q: How do I reset my TechNova account password?
+A: Go to the login page and click "Forgot password." Enter your registered email
+address and you will receive a reset link within a few minutes. The link expires
+after 24 hours.
+
+Q: Can I connect CodePilot Cloud to a private GitHub repository?
+A: Yes. During setup, grant the CodePilot Cloud GitHub App access to your private
+repositories. You can restrict access to specific repositories rather than your
+entire organization.
+
+Q: What happens if I exceed my plan's repository limit on the Starter tier?
+A: You will receive a notification and be prompted to upgrade to the Team tier.
+Existing repositories already connected will continue to work, but you won't be
+able to add new ones until you upgrade.
+
+Q: Does TechNova offer a free trial?
+A: Yes, all new accounts get a 14-day free trial of the Team tier, no credit card
+required.
+
+Q: How do I contact customer support?
+A: Team and Enterprise customers can email support@technova.example or use the
+in-app chat widget. Enterprise customers also have access to a dedicated Slack
+channel with their customer success manager.
