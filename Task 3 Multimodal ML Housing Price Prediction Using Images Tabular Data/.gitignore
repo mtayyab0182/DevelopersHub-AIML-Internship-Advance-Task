@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+
+# Generated data & checkpoints
+data/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
