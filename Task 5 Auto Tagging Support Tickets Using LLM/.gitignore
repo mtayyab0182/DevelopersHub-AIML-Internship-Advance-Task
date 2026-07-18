@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Generated data, results, checkpoints
+data/
+results/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
